@@ -1,1 +1,1 @@
-# odin-recipes
+This project focuses on making a website for food recipes. The key skills involved include learning how to create lists in HTML, inserting links and images, and ensuring the text looks neat and organized. 
